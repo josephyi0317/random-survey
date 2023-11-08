@@ -10,7 +10,6 @@
 const urls = [
 	'https://docs.google.com/forms/d/e/1FAIpQLScEIutwPxiFuleUB1iUR8akaO0hhe5TKAikSJzcwotveDuHdg/viewform?usp=share_link',
 	'https://docs.google.com/forms/d/e/1FAIpQLSfsUeH16gWX_wQWrfBIb_SjTNE_7UaO7esgmtQuqu6YTOhaVw/viewform?usp=share_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLSdfzNp5MIBCafFcakRotLpi9xucH1ZfnxKhVFbAEUzPFLSmsw/viewform?usp=share_link',
 	'https://docs.google.com/forms/d/e/1FAIpQLSfhjAdXuP9cXuiQ6ucV0BCN32g3FUPLi4teZ8LgvbLZ1u-cqQ/viewform?usp=share_link',
 	'https://docs.google.com/forms/d/e/1FAIpQLSeG-BNgwE7hE4usx80gPAr_zXi8BfyLK46ROD1X5owIZakWgw/viewform?usp=share_link',
 	'https://docs.google.com/forms/d/e/1FAIpQLScnz3qCtX0a6cL2mT2V9RVyD-SnArdI-9SiWR24s-6YVYEZyw/viewform?usp=share_link',
